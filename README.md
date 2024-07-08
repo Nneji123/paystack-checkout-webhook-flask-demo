@@ -27,7 +27,7 @@ This repository demonstrates how to integrate Paystack payments with a Flask ser
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your_username/paystack-flask-demo.git
+   git clone https://github.com/Nneji123/paystack-flask-demo.git
    cd paystack-flask-demo
    ```
 
