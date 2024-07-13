@@ -1,7 +1,3 @@
-Here's an updated `README.md` file that includes instructions for running the `test.py` script to initiate a payment and obtain the authorization URL, access code, and reference from Paystack:
-
----
-
 # Paystack Integration with Flask Server
 
 This repository demonstrates how to integrate Paystack payments with a Flask server, including setting up environment variables and using Ngrok for local testing.
